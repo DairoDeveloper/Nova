@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:nova/features/home/presentation/home_screen.dart';
 
 class NovaApp extends StatelessWidget {
