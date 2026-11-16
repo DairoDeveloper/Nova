@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:nova/core/widgets/nova_title.dart';
 
 class HomeScreen extends StatelessWidget {
